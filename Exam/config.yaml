@@ -1,0 +1,5 @@
+address: https://test-stand.gb.ru/
+browser: chrome
+chrome_driver_path: ./chromedriver.exe
+username: dum1401
+password: af3e62ebd5
