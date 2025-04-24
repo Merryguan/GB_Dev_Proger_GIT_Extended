@@ -1,7 +1,3 @@
 # GB_Dev_Proger_GIT_Extended
 
 Commit 1
-
-Commit 2
-
-Commit 3
